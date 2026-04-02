@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://avantejapanltd.github.io/all-for-grit/sitemap.xml
